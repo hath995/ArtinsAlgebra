@@ -1,0 +1,7 @@
+"The fibre of a map \( \varphi\colon S \to T \) ","\[ \varphi^{-1} (t) = \{ s \in S \mid \varphi(s) = t, t \in T\} \]"
+"Congruence","Let \(\varphi\colon G \to G'\) be a homomorphism. This relation is usually denoted by \(\equiv\) \[ a \equiv b \text{ if } \varphi(a) = \varphi(b)\]"
+"Let \(\varphi\colon G \to G'\) be a homomorphism with Kernel N. The set of elements of the form \(an\) is denoted by \(aN\) and is called a coset of N in G:","\[aN = \{g \in G \mid g = an \text{ for some } n \in N \}\]"
+"Homomorphism", "Let G, G' be groups. A homomorphism \(\varphi\colon G \to G'\) be any map satisfying the rule \[\\varphi(ab) = \varphi(a)\varphi(b)]",
+"Group Homomorphism","A group homomorphism \(\varphi\colon G \to G'\) carries the identity to the identity and the inverses to the inverses. \[\varphi(1_G) = 1_{G'} \text{ and } \varphi(a^{-1}) = \varphi(a)^{-1}\]"
+"The image of a homomorphism \(\varphi\colon G \to G'\)","\[\text{im} \varphi =  \{x \in G' \mid x = \varphi(a) \text{ for some } a \in G\}\] and it is a subgroup of G'"
+"Kernel of a group homomorphism \(\varphi\)","\[\text{ker} \varphi = \{a \in G \mid \varphi(a) = 1\}\]"
