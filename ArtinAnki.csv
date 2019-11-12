@@ -1,7 +1,13 @@
-"The fibre of a map \( \varphi\colon S \to T \) ","\[ \varphi^{-1} (t) = \{ s \in S \mid \varphi(s) = t, t \in T\} \]"
-"Congruence","Let \(\varphi\colon G \to G'\) be a homomorphism. This relation is usually denoted by \(\equiv\) \[ a \equiv b \text{ if } \varphi(a) = \varphi(b)\]"
-"Let \(\varphi\colon G \to G'\) be a homomorphism with Kernel N. The set of elements of the form \(an\) is denoted by \(aN\) and is called a coset of N in G:","\[aN = \{g \in G \mid g = an \text{ for some } n \in N \}\]"
-"Homomorphism","Let G, G' be groups. A homomorphism \(\varphi\colon G \to G'\) be any map satisfying the rule \[\varphi(ab) = \varphi(a)\varphi(b)\]"
-"Group Homomorphism","A group homomorphism \(\varphi\colon G \to G'\) carries the identity to the identity and the inverses to the inverses. \[\varphi(1_G) = 1_{G'} \text{ and } \varphi(a^{-1}) = \varphi(a)^{-1}\]"
-"The image of a homomorphism \(\varphi\colon G \to G'\)","\[\text{im} \varphi =  \{x \in G' \mid x = \varphi(a) \text{ for some } a \in G\}\] and it is a subgroup of G'"
-"Kernel of a group homomorphism \(\varphi\)","\[\text{ker} \varphi = \{a \in G \mid \varphi(a) = 1\}\]"
+"The fibre of a map \( \varphi\colon S \to T \) ","\[ \varphi^{-1} (t) = \{ s \in S \mid \varphi(s) = t, t \in T\} \]",2
+"Congruence","Let \(\varphi\colon G \to G'\) be a homomorphism. This relation is usually denoted by \(\equiv\) \[ a \equiv b \text{ if } \varphi(a) = \varphi(b)\]",2
+"Let \(\varphi\colon G \to G'\) be a homomorphism with Kernel N. The set of elements of the form \(an\) is denoted by \(aN\) and is called a coset of N in G:","\[aN = \{g \in G \mid g = an \text{ for some } n \in N \}\]",2
+"Homomorphism","Let G, G' be groups. A homomorphism \(\varphi\colon G \to G'\) be any map satisfying the rule \[\varphi(ab) = \varphi(a)\varphi(b)\]",2
+"Group Homomorphism","A group homomorphism \(\varphi\colon G \to G'\) carries the identity to the identity and the inverses to the inverses. \[\varphi(1_G) = 1_{G'} \text{ and } \varphi(a^{-1}) = \varphi(a)^{-1}\]",2
+"The image of a homomorphism \(\varphi\colon G \to G'\)","\[\text{im} \varphi =  \{x \in G' \mid x = \varphi(a) \text{ for some } a \in G\}\] and it is a subgroup of G'",2
+"Kernel of a group homomorphism \(\varphi\)","\[\text{ker} \varphi = \{a \in G \mid \varphi(a) = 1\}\]",2
+"Matrix product","\[p_{ij} = \sum_{k=1}^m a_{ik}b_{kj}\]",1
+"Matrix scalar multiplication","\[c(AB) = (cA)B = A(cB)\]",1
+"Matrix Inverse","Let A be a (square) n X n matrix. If there a matrix \(A^{-1}\) such that \(A^{-1}A = I_n = AA^{-1}\) then \(A^{-1}\) is called the inverse of A. It is unique if it exists.",1
+"The product of invertible matrices is invertible","\[(AB)^{-1} = B^{-1}A^{-1}\]",1
+"Matric Block Multiplication","Let M,M' be m X n and n X p matrices. \(M = [A \mid B] \text{ and } M' = [{A' \over B'}]\) where A has r columns and A' has r rows where r < n. Then the product is \(MM' = AA' + BB'\)",1
+
